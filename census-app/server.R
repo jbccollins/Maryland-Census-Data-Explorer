@@ -4,6 +4,7 @@ library(maps)
 library(mapproj)
 library(maptools)
 require(dplyr)
+require(FNN)
 
 majors = read.csv("data/majors-list.csv") # Used to create major categories
 majors <- na.omit(majors)
