@@ -3,4 +3,6 @@ A Shiny app that lets the user subset, filter and visualize Maryland census data
 
 [Here it is in action!](https://jbccollins.shinyapps.io/census-app/)
 
+![alt_text](https://imgur.com/nAtYXWR.png)
+
 Note: The page may take a few seconds to load as it needs to fetch/build large data frames. Also... The predictive modeling in the app was done for a class project so take it as you will.
